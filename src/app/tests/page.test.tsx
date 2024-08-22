@@ -5,5 +5,5 @@ describe('Home', () => {
   it('should render', () => {
     const blah = render(<Home />);
     console.log({ blah }); // used to test "npm test" run
-  })
-})
+  });
+});
